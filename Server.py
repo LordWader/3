@@ -14,7 +14,7 @@ class Root:
           <title>Bar Chart</title>
          </head>
          <body> 
-          <p>"<img src='/foo.png'>"</p>
+          <p><img src='/foo.png'></p>
         </body>
         </html>
         """
